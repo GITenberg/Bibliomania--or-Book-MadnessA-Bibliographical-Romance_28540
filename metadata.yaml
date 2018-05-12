@@ -1,0 +1,39 @@
+_repo: Bibliomania--or-Book-MadnessA-Bibliographical-Romance_28540
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28540-h/images/goldencover-lg.jpg
+creator:
+  author:
+    agent_name: Dibdin, Thomas Frognall
+    aliases:
+    - Wolfe, Reginald
+    - Dibdin, T. F. (Thomas Frognall)
+    - Wolfe, Reginalde
+    - Rusticus, Mercurius
+    birthdate: 1776
+    deathdate: 1847
+    gutenberg_agent_id: '6546'
+    url: http://www.gutenberg.org/2009/agents/6546
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Frognall_Dibdin
+description: ''
+gutenberg_bookshelf: Bibliomania
+gutenberg_issued: '2009-04-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28540'
+  lccn: '53000032'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bibliomania'
+- !lcc 'Z'
+- !lcsh 'Book collecting'
+- !lcsh 'Books -- Prices'
+- !lcsh 'Bibliography'
+title: 'Bibliomania; or Book-Madness
+
+  A Bibliographical Romance'
+url: http://www.gutenberg.org/ebooks/28540
